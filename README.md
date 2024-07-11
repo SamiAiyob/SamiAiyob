@@ -1,5 +1,5 @@
 # I'm just looking around for jobs and chillaxing
-<img src="Me.jpg" alt="a photo of Sami and Gaga chillin">
+<img src="WhatsApp Image 2022-11-27 at 12.03.15.jpeg" alt="a photo of Sami and Gaga chillin">
 <ul>
         <li>Python fundamentals</li>
         <li>Django, DRF, Flask</li>
